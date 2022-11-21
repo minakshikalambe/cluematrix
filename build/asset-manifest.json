@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a809431c.css",
+    "main.js": "/static/js/main.f06bf606.js",
+    "static/js/787.e9d8803e.chunk.js": "/static/js/787.e9d8803e.chunk.js",
+    "static/media/Screenshot (116).png": "/static/media/Screenshot (116).6862106c32b5b7f0023f.png",
+    "static/media/Screenshot (117).png": "/static/media/Screenshot (117).3ec4b1accd4f0c7f6984.png",
+    "static/media/Screenshot (113).png": "/static/media/Screenshot (113).e883ad1a569a4860789c.png",
+    "static/media/Screenshot (114).png": "/static/media/Screenshot (114).7d57b7fe51ddfd0d45aa.png",
+    "static/media/Screenshot (115).png": "/static/media/Screenshot (115).58c27f32d13188923c32.png",
+    "static/media/Screenshot (120).png": "/static/media/Screenshot (120).24d1412883a02e1bfe72.png",
+    "static/media/Screenshot (121).png": "/static/media/Screenshot (121).44736465b96bf8784a49.png",
+    "static/media/Screenshot (98).png": "/static/media/Screenshot (98).0b9bcdcc54e732f97161.png",
+    "static/media/Screenshot (99).png": "/static/media/Screenshot (99).6ef627d1fcbf6aad1ae9.png",
+    "static/media/Screenshot (97).png": "/static/media/Screenshot (97).e89226a83cad12319566.png",
+    "static/media/Screenshot (96).png": "/static/media/Screenshot (96).e06a502b8245a113cbda.png",
+    "static/media/Screenshot (82).png": "/static/media/Screenshot (82).b8f4009a351b594e53a8.png",
+    "static/media/Screenshot (126).png": "/static/media/Screenshot (126).620fbdb8b232b7f88fdd.png",
+    "static/media/Screenshot (92).png": "/static/media/Screenshot (92).237d09f6184fe2a38b1e.png",
+    "static/media/Screenshot (89).png": "/static/media/Screenshot (89).a9fd2720e8606c899e2a.png",
+    "static/media/Screenshot (94).png": "/static/media/Screenshot (94).c6b6b99acd1b73e32068.png",
+    "static/media/Screenshot (93).png": "/static/media/Screenshot (93).1d4c360722a1d85ef1f2.png",
+    "static/media/Screenshot (64).png": "/static/media/Screenshot (64).61161bbda6296ea4b025.png",
+    "static/media/Screenshot (91).png": "/static/media/Screenshot (91).80d0dba683195ecdf6ec.png",
+    "static/media/Screenshot (90).png": "/static/media/Screenshot (90).4569a5f4a370cae94f44.png",
+    "static/media/Screenshot (81).png": "/static/media/Screenshot (81).ecc42839c2a9e23bf160.png",
+    "static/media/Screenshot (65).png": "/static/media/Screenshot (65).1865d0209b06f96bd9c8.png",
+    "static/media/Screenshot (125).png": "/static/media/Screenshot (125).96e6a654ca68f67ebf4f.png",
+    "static/media/Screenshot (84).png": "/static/media/Screenshot (84).2e892177f1a2782efc3d.png",
+    "static/media/Screenshot (85).png": "/static/media/Screenshot (85).e3bf5d0d1418c1f86b42.png",
+    "static/media/Screenshot (58).png": "/static/media/Screenshot (58).ffa46837ee58fb041dd0.png",
+    "static/media/Screenshot (83).png": "/static/media/Screenshot (83).18dcc991a4b69103c6c8.png",
+    "static/media/Screenshot (63).png": "/static/media/Screenshot (63).6b116b3ed74392141dea.png",
+    "index.html": "/index.html",
+    "main.a809431c.css.map": "/static/css/main.a809431c.css.map",
+    "main.f06bf606.js.map": "/static/js/main.f06bf606.js.map",
+    "787.e9d8803e.chunk.js.map": "/static/js/787.e9d8803e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a809431c.css",
+    "static/js/main.f06bf606.js"
+  ]
+}
